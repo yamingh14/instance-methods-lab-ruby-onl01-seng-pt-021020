@@ -13,7 +13,7 @@ class Dog
   end
 
   def sit
-      puts "The Dog is sitting"
+    puts "The Dog is sitting"
     @sit
   end
 end
