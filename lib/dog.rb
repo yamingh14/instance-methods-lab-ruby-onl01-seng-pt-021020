@@ -9,5 +9,5 @@ class Dog
   end
 end
 fido = Dog.new
-# fido.bark = "Woof!"
-# fido.bark
+fido.bark = "Woof!"
+fido.bark
