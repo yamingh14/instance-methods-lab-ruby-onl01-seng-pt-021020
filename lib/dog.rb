@@ -8,3 +8,5 @@ class Dog
     @bark
   end
 end
+snoopy = Dog.new
+snoopy.bark = "Woof!"
