@@ -10,10 +10,10 @@ class Dog
 
   def sit=(sit)
     @sit = sit
-    puts "The Dog is sitting"
   end
 
   def sit
+      puts "The Dog is sitting"
     @sit
   end
 end
