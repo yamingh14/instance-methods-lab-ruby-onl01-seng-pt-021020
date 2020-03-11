@@ -10,4 +10,4 @@ class Dog
 end
 fido = Dog.bark
 fido.bark = "Woof!"
-fido.bark
+# fido.bark
