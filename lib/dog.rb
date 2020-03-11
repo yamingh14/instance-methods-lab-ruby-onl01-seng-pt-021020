@@ -7,5 +7,7 @@ class Dog
   def bark
     @bark
   end
-
 end
+fido = Dog.bark 
+fido.bark = "Woof!"
+fido.bark
