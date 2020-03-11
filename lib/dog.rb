@@ -1,5 +1,5 @@
 class Dog
-  def bark=(bark)
+  def bark=(Woof!)
     # puts "Woof!"
     @bark = bark
   end
