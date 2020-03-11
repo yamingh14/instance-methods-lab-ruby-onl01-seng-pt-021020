@@ -1,6 +1,6 @@
 class Dog
   def bark=(bark)
-    # puts "Woof!"
+    puts "Woof!"
     @bark = bark
   end
 
@@ -8,4 +8,4 @@ class Dog
     @bark
   end
 end
-fido = Dog.new("Woof!")
+fido = Dog.new
