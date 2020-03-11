@@ -8,6 +8,6 @@ class Dog
     @bark
   end
 end
-fido = Dog.bark
+fido = Dog.new
 # fido.bark = "Woof!"
 # fido.bark
